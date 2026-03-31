@@ -1,6 +1,7 @@
 PROJECT NAME: AgriRound Cycle
 
 PROBLEM: Smallholder farmers in rural areas of the Philippines face difficulty managing their group savings cycles because contributions are often late, records are tracked manually, and communication gaps lead to delayed or disputed fund releases.
+
 SOLUTION: AgriRound Cycle uses a Soroban smart contract to enforce cooperative savings cycles, where farmers submit weekly USDC contributions on-chain and the contract automatically releases the pooled funds to the scheduled member only when all required payments are completed, removing the need for manual coordination or trust.
 
 STELLAR FEATURES USED
@@ -17,5 +18,7 @@ CORE FEATURE (MVP): A farmer joins a savings cycle by interacting with a Soroban
 THEME: Savings & Lending → Rotational Group Savings + Farmer Payment Coordination (farmers contribute weekly USDC to a shared cycle and receive instant Stellar payouts when it’s their scheduled turn)
 
 
-Contract Explorer Link:
+Stellar Explorer Link:
 https://stellar.expert/explorer/testnet/contract/CCRZHSAI6XMP42PF45KF7PDQ4YHY5RF3S2COKRQACK545FSSHCRPWK4A
+
+![Screenshot 2026-03-30 184451](https://github.com/user-attachments/assets/880e35ef-b56f-4b1e-b5b4-e03f9f3c8101)
